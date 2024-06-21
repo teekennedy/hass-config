@@ -1,0 +1,20 @@
+# Sensitive info
+ip_bans.yaml
+secrets.yaml
+.cloud/
+*.pem
+
+# Local / temporary storage
+.storage/
+.shopping_list.json
+*.swp
+*.log
+*.log.*
+tts/
+*.db
+*.db-shm
+*.db-wal
+
+# Vendored / Built-In
+custom_components/
+blueprints/*/homeassistant
