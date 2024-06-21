@@ -1,0 +1,5 @@
+---
+# Configuration file for Prettier
+printWidth: 88
+tabWidth: 2
+useTabs: true
